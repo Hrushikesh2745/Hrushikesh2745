@@ -1,4 +1,4 @@
-# ![Hrushikesh Sahoo](https://www.example.com/your-photo-url.jpg)  
+
 ## Hi there, I'm **Hrushikesh Sahoo** 👋  
 A passionate **Full Stack Developer** and **Computer Science Engineer** from India 🇮🇳  
 I’ve completed my **B.Tech in Computer Science Engineering** from **Driems University** 🎓, graduating in **2024**. 🚀
@@ -32,9 +32,6 @@ Here are some of the technologies I love working with:
 - Java, C++
 - Web design & Frontend development 🎨   
 - Databases & Cloud Solutions ☁️
-
-## 📈 GitHub Stats
-![Hrushikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrushikeshrout&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me:
 - **Email:** [sahoohrushikesh953@gmail.com](mailto:sahoohrushikesh953@gmail.com) 📧  
