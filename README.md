@@ -1,4 +1,4 @@
-👨‍💻 Hrushikesh Sahoo
+                                                                          👨‍💻 Hrushikesh Sahoo
 👋 Hey there! I'm Hrushikesh, a passionate software engineer with a degree in Computer Science Engineering. I love to explore new technologies and contribute to open-source projects. 🚀
 
 🎓 Education
@@ -41,5 +41,5 @@ Improving my skills in DevOps ⚙️
 📫 How to Reach Me
 Email:sahoohrushikesh953@gmail.com 📧
 
-LinkedIn: Hrushikesh Sahoo 🔗
+
 
