@@ -1,45 +1,50 @@
-                                                      👨‍💻 Hrushikesh Sahoo
-👋 Hey there! I'm Hrushikesh, a passionate software engineer with a degree in Computer Science Engineering. I love to explore new technologies and contribute to open-source projects. 🚀
+# ![Hrushikesh Sahoo](https://www.example.com/your-photo-url.jpg)  
+## Hi there, I'm **Hrushikesh Sahoo** 👋  
+A passionate **Full Stack Developer** and **Computer Science Engineer** from India 🇮🇳  
+I’ve completed my **B.Tech in Computer Science Engineering** from **Driems University** 🎓, graduating in **2024**. 🚀
 
-🎓 Education
-Bachelor of Technology (B.Tech) in Computer Science Engineering 🖥️
+---
 
-Graduated from DRIEMS UNIVERSITY
+## 🔭 What I’m working on:
+Currently, I am working on developing various **Full Stack Web Applications** . I’m passionate about building projects that make life easier, and I continuously strive to improve my coding and problem-solving abilities. 💡
 
-Year of Graduation: 2024
+---
 
-🛠️ Technologies & Tools
-I love working with a variety of tools and technologies to build amazing things! Here are some of my favorites:
+## 🌱 Current Learning
+- **Full Stack Web Development** 💻  
+- **Machine Learning** & **AI** 🤖  
+- **Cloud Computing** ☁️  
+- **DevOps** ⚙️  
 
-Languages:  JavaScript ⚡, C++ 💻, Java ☕
+---
 
-Web Development: HTML5 🌐, CSS3 🎨, React.js ⚛️, Node.js 🌱
+## 🛠️ Technologies & Tools
+Here are some of the technologies I love working with:
 
-Databases: MySQL 🗃️, MongoDB 🍃
+- **Languages:** JavaScript ⚡, Java ☕, C++ 💻
+- **Web Development:** HTML5 🌐, CSS3 🎨, React.js ⚛️, Node.js 🌱, Express.js, Bootstrap 🎨
+- **Databases:** MySQL 🗃️, MongoDB 🍃, Firebase 🔥
+- **Tools & Libraries:** Git 🧑‍💻, GitHub 🐙, VSCode 🖥️, 
+- **Other:**  Firebase 🔥
 
-Tools & Libraries: Git 🧑‍💻, GitHub 🐙, Docker 🐳, VSCode 🖥️
+---
+
+## 💬 Ask me about:
+- Full Stack Web Development 🌐  
+- Java, C++
+- Web design & Frontend development 🎨   
+- Databases & Cloud Solutions ☁️
+
+## 📈 GitHub Stats
+![Hrushikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrushikeshrout&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me:
+- **Email:** [sahoohrushikesh953@gmail.com](mailto:sahoohrushikesh953@gmail.com) 📧  
 
 
-💡 What I do
-Build cool projects and share them with the community 🛠️
+## ⚡ Fun Fact
+I believe humor is essential to make coding fun and engaging. I’m also a big fan of **problem-solving** and learning new things every day! 😄
 
-Contribute to open-source projects 🌍
-
-Continuously learn and improve my skills 📚
-
-Create tools to make developers' lives easier 🔧
-
-🌱 Current Learning
-Exploring Full Stack Development 💻
-
-Diving deeper into AI & Machine Learning 🤖
-
-Improving my skills in DevOps ⚙️
-
-📈 GitHub Stats
-
-📫 How to Reach Me
-Email:sahoohrushikesh953@gmail.com 📧
-
+---
 
 
