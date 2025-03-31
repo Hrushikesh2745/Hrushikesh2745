@@ -11,9 +11,7 @@ Currently, I am working on developing various **Full Stack Web Applications** . 
 ---
 
 ## 🌱 Current Learning
-- **Full Stack Web Development** 💻  
-- **Machine Learning** & **AI** 🤖  
-- **Cloud Computing** ☁️  
+- **Full Stack Web Development** 💻   
 - **DevOps** ⚙️  
 
 ---
